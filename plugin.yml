@@ -1,0 +1,15 @@
+name: LowerFertility
+version: 0.0
+description: Changes drop rates of seeds from crops
+api-version: 1.15
+load: POSTWORLD
+author: RandomPersson
+authors: []
+website: https://discord.gg/RmDbKqq
+
+main: pl.org.mensa.rp.mc.LowerFertility.LowerFertilityPlugin
+database: false
+depend: []
+prefix: 
+softdepend: []
+loadbefore: []
